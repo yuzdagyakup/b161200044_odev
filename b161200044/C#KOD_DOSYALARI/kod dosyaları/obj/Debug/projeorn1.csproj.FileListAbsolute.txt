@@ -1,0 +1,17 @@
+C:\Users\asus\source\repos\projeorn1\projeorn1\bin\Debug\projeorn1.exe.config
+C:\Users\asus\source\repos\projeorn1\projeorn1\bin\Debug\projeorn1.exe
+C:\Users\asus\source\repos\projeorn1\projeorn1\bin\Debug\projeorn1.pdb
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.frmMüşteriEkle.resources
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.Properties.Resources.resources
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.exe
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.pdb
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.frmMusteriListele.resources
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.frmKategori.resources
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.frmMarka.resources
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.frmUrunEkle.resources
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.frmUrunListele.resources
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.frmSatis.resources
+C:\Users\asus\source\repos\projeorn1\projeorn1\obj\Debug\projeorn1.frmSatisListele.resources
